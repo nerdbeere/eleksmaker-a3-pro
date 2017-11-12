@@ -4,6 +4,8 @@
 
 ### Wood (Engraving)
 
+Tested with different kinds of wood (Plywood, birch, spruce)
+
 - Speed / Cut Rate: 2500 mm/m
 - Passes: 1
 - Power: 100%
@@ -12,6 +14,6 @@
 
 #### Plywood 4mm
 
-- Speed / Cut Rate: 100 mm/m
-- Passes: 10
+- Speed / Cut Rate: 200 mm/m
+- Passes: 20
 - Power: 100%
