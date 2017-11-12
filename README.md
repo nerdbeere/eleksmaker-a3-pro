@@ -13,5 +13,5 @@
 #### Plywood 4mm
 
 - Speed / Cut Rate: 100 mm/m
-- Passes: 8
+- Passes: 10
 - Power: 100%
