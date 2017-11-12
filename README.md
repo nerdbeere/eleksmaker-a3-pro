@@ -1,5 +1,9 @@
 # Eleksmaker A3 Pro
 
+I run my eleksmaker under ubuntu. No additional drivers where needed to communicate with the arduino nano clone.
+Never tried out the original firmware so I have no clue how this would have worked.
+I'm pretty happy with Laserweb and Grbl.
+
 ## Software
 - [Grbl 1.1](https://github.com/gnea/grbl)
 - [Laserweb 4](https://github.com/LaserWeb/LaserWeb4)
