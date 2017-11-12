@@ -8,6 +8,12 @@ I'm pretty happy with Laserweb and Grbl.
 - [Grbl 1.1](https://github.com/gnea/grbl)
 - [Laserweb 4](https://github.com/LaserWeb/LaserWeb4)
 
+## Setup
+0. Make sure to always wear Eye protection when working with the laser. It sometimes turns on the laser when you connect to it.
+1. Get arduino ide, clone grbl 1.1 and flash grbl. The firmware does not need to be changed.
+2. Get Laserweb 4 and connect to your laser.
+3. Once connected change the settings via the built-in terminal (you find my settings below)
+
 ## Grbl Settings
 
 ```
