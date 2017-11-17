@@ -51,7 +51,7 @@ Note: I had to change the steps/mm of all axis to `80` instead of `160`
 
 Tested with different kinds of wood (Plywood, birch, spruce)
 
-- Speed / Cut Rate: 2500 mm/m
+- Speed / Cut Rate: 1200 mm/m
 - Passes: 1
 - Power: 100%
 
